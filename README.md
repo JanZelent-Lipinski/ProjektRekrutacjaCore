@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-Aplikacja okienkowa (WPF) stworzona w technologii .NET 8, umożliwiająca wyszukiwanie produktów w bazie danych systemu magazynowo-handlowego.
+Aplikacja okienkowa (WPF) stworzona w technologii .NET 8, umożliwiająca wyszukiwanie produktów w bazie danych systemu magazynowo-handlowego (Subiekt Nexo).
 
 ---
 
